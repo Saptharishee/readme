@@ -11,16 +11,14 @@
   <img align="left" alt="Saptharishee- Mail" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
 </a>
 <a href="https://saptharishee.github.io/portfolio/">
-  <img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=saptharishee" alt="Saptharishee"/>
-
+  <img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@
 ## About Me 🚀
 - 🔭 I’m currently focusing on Webdev.
 - 🌱 I’m currently learning JS and JSframeworks.
 - 👯 I’m looking to collaborate on Web Development Projects.
 - 💬 Ask me about Python(Selenium)
 - 😄 Pronouns: He/Him/His
+<hr>
 ## My skills 🚀
 ![](https://img.shields.io/badge/Python-563D7C?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/C-563D7C?style=for-the-badge&logo=C&logoColor=blue)
@@ -28,6 +26,8 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<hr>
+<img src="https://komarev.com/ghpvc/?username=saptharishee" alt="Saptharishee"/>
 
 
 <hr>

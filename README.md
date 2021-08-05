@@ -12,7 +12,7 @@
 </a>
 <a href="https://saptharishee.github.io/portfolio/">
   <img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
-</a>
+</a><br>
 <hr>
 ## About Me 🚀
 - 🔭 I’m currently focusing on Webdev.

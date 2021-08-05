@@ -12,7 +12,8 @@
 </a>
 <a href="https://saptharishee.github.io/portfolio/">
   <img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
-</a><br>
+</a>
+<img src="https://komarev.com/ghpvc/?username=saptharishee" alt="Saptharishee"/>
 <hr>
 ## About Me 🚀
 - 🔭 I’m currently focusing on Webdev.
@@ -29,7 +30,7 @@
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <hr>
-<img src="https://komarev.com/ghpvc/?username=saptharishee" alt="Saptharishee"/>
+
 
 
 <hr>

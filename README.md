@@ -1,8 +1,8 @@
 # 💫About Me :
-🔭 I’m currently focusing on Webdev.
-🌱 I’m currently learning JS and JSframeworks.
-👯 I’m looking to collaborate on Web Development Projects.
-💬 Ask me about Python
+🔭 I’m currently focusing on Webdev.\
+🌱 I’m currently learning JS and JSframeworks.\
+👯 I’m looking to collaborate on Web Development Projects.\
+💬 Ask me about Python\
 😄 Pronouns: He/Him/His
 
 ## 🌐Socials

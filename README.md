@@ -1,7 +1,7 @@
 # 💫About Me :
-🔭 I’m currently focusing on Webdev.\
-🌱 I’m currently learning JS and JSframeworks.\
-👯 I’m looking to collaborate on Web Development Projects.\
+🔭 I’m currently focusing on ML.\
+🌱 I’m currently learning Deeplearning and CNN.\
+👯 I’m looking to collaborate on any analytics Projects.\
 💬 Ask me about Python\
 😄 Pronouns: He/Him/His
 

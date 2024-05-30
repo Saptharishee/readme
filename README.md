@@ -4,7 +4,13 @@
 👯 I’m looking to collaborate on any analytics Projects.\
 💬 Ask me about Python\
 😄 Pronouns: He/Him/His
-
+## My Recent Projects 
+* [Reddit Monitor](https://github.com/Saptharishee/Tamil-Nadu-Reddit-Monitor-)
+* [Tamil Hate Speech in Video ] (https://github.com/Saptharishee/ai-tamil-hate-speech-project-for-videos/blob/master/Copy_of_SocialMediaAnalytics.ipynb)
+* [Lift Efficiency improvement_using Computer Vision ](https://github.com/Saptharishee/Lift_Efficiency_improvement_using_CV)
+* [TNAssembly Election 2021 Analysis](https://github.com/Saptharishee/TNAssembly_Election_2021_Analysis)
+* [Asynchronous Whatsapp Chat Summary](https://github.com/Saptharishee/Asyc_Whatsapp_Chat_Summary)
+* [Zipfslaw thirukural](https://github.com/Saptharishee/Zipfslaw-thirukural)
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saptharishee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saptharishee-m-3507941ba/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saptharishee) 
 

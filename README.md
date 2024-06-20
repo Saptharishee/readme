@@ -5,6 +5,7 @@
 💬 Ask me about Python\
 😄 Pronouns: He/Him/His
 ## My Recent Projects 
+* [Youtube Comparrison Analytics](https://github.com/Saptharishee/Youtube-Comparison-Analytics-)
 * [Reddit Monitor](https://github.com/Saptharishee/Tamil-Nadu-Reddit-Monitor-)
 * [Tamil Hate Speech in Video ](https://github.com/Saptharishee/ai-tamil-hate-speech-project-for-videos/blob/master/Copy_of_SocialMediaAnalytics.ipynb)
 * [Lift Efficiency improvement_using Computer Vision ](https://github.com/Saptharishee/Lift_Efficiency_improvement_using_CV)
